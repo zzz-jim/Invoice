@@ -1,0 +1,9 @@
+packages/
+WebDemoAsp/bin/
+WebDemoAsp/obj/
+Invoice.Models/bin/
+Invoice.Models/obj/
+Invoice.Constants/obj/
+Invoice.Constants/bin/
+Invoice.WebClientHelper/obj/
+Invoice.WebClientHelper/bin/
